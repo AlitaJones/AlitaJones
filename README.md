@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlitaJones
-- 👀 I’m interested in AI, machine learning
-- 🌱 I’m currently learning AI, machine learning
+- 👋 Hi, I’m @AlitaJones. My coding name.
+- 👀 I’m interested in AI, machine learning, and game development.
+- 🌱 I’m currently learning AI, machine learning, and game development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
